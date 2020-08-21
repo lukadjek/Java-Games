@@ -1,6 +1,6 @@
 SPECIFICATION
 
-Short description: This software is presented to the user by a JFrame which has only 1 dropdown option. This dropdown has 2 items both of which represent a game.
+Short description: This software is presented to the user by a JFrame which has only 1 dropdown. This dropdown has 2 items both of which represent a game.
 By choosing one of the items, the approppriate game is automatically selected based on dropdown listeners. Dynamic panel has the responsibility to switch
 between games according to the user's wishes/actions which means that 1 panel can display 2 games. 
 The JFrame's title is always set to display the current game name. Not to forget, the JFrame itself is centered on the user's screen.
